@@ -1,0 +1,8 @@
+.kolkataTitle{
+    display:flex;
+    background-color:red;
+    justify-content:center;
+}
+h2{
+    color:red;
+}

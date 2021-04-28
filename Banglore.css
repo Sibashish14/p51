@@ -1,0 +1,8 @@
+.bangloreTitle{
+    display:flex;
+    background-color:burlywood;
+    justify-content:center;
+}
+h2{
+    color:burlywood;
+}

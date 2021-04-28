@@ -1,0 +1,31 @@
+p,h1{
+    text-align:center;
+}
+.title{
+    display:flex;
+    background-color:aqua;
+    justify-content:space-around;
+}
+.upperclass{
+    display:flex;
+    flex-wrap:nowrap;
+    justify-content:space-around;
+    align-content:center;
+}
+.middleclass{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:nowrap;
+    align-items:center;
+    flex-direction:column;
+}
+.endclass{
+    display:flex;
+    justify-content:flex-start;
+    justify-content:space-between;
+}
+.media{
+    display:flex;
+    justify-content:center;
+    color:blue;
+}

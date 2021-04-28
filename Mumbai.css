@@ -1,0 +1,8 @@
+.mumbaiTitle{
+    display:flex;
+    background-color:darkgoldenrod;
+    justify-content:center;
+}
+h2{
+    color:darkgoldenrod;
+}

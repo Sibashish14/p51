@@ -1,0 +1,8 @@
+.hyderabadTitle{
+    display:flex;
+    background-color:coral;
+    justify-content:center;
+}
+h2{
+    color:coral;
+}
